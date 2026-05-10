@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "4b52c822a45d6ef0",
+    "type": "split",
+    "children": [
+      {
+        "id": "9c1a52e09bef06e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90aad33a2a76885e",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2707334490da7780",
+    "type": "split",
+    "children": [
+      {
+        "id": "8339d566abbdfd75",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "60290f814491dea7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "5f9a45912ebfb583",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "6d4e81893a3d4fcb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0ef95535e26b9c81",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3de2c92e3d74b87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c7a705ca54bb19c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "42104370889bddf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "6e5baabf9e150472",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "a89a7457b77e5bfb",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "c2575a16092a4af9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "90aad33a2a76885e",
+  "lastOpenFiles": [
+    "references",
+    "raw/피지컬 AI의 성패 가른 핵심, ‘시뮬레이션과 온디바이스’.md",
+    "raw/취준생 임베디드 프로젝트 개발 과정 - 브링업이란.md",
+    "raw/질의응답 챗봇을 넘어, KPI를 움직이는 의사결정 AI Agent.md",
+    "raw/연재기획-피지컬 AI와 센서② - 환경 인식·엣지 센서가 지능을 결정.md",
+    "raw/연재기획-피지컬 AI와 센서① - 센서, 지능과 제어·안전을 연결하는 출발점.md",
+    "raw/연재기획 - 피지컬 AI, 산업의 미래를 다시 그리다③, 피지컬 AI 감각 기관 ‘센서’ 피지컬 AI 경쟁력 좌우.md",
+    "raw/연재기획 - 피지컬 AI, 산업의 미래를 다시 그리다①, ‘피지컬 AI 성공’ 인간과 지능형 기계의 상호작용 설계에 달렸다.md",
+    "raw/SDV 테크 리포트 -  SW 업데이트 전쟁터가 된 도로... ‘24시간 멈추지 않는 검증 파이프라인’이 승패 가른다.md",
+    "raw/Comprehensive Explanation MIPI is not difficult! Newbies learn the MIPI standard from scratch ~ Basics Part 1 What is D-PHY ~ - Semiconductor Business.md",
+    "raw",
+    "projects",
+    "logs/log.md",
+    "logs",
+    "llm-wiki.md",
+    "ingests/2026-05-10-physical-ai-sensor-start.md",
+    "ingests/2026-05-10-physical-ai-sensor-edge.md",
+    "ingests/2026-05-10-ai-agent-kpi-decision.md",
+    "ingests/2026-05-09-sdv-verification-hils.md",
+    "ingests/2026-05-09-physical-ai-simulation-on-device.md",
+    "ingests/2026-05-09-physical-ai-sensor-importance.md",
+    "ingests/2026-05-09-physical-ai-future-interaction.md",
+    "ingests/2026-05-09-mipi-d-phy-basics.md",
+    "ingests/2026-05-09-llm-wiki-core-idea.md",
+    "ingests/2026-05-09-embedded-bring-up.md",
+    "ingests",
+    "index.md",
+    "GEMINI.md",
+    "concepts/world-foundation-model.md",
+    "concepts/simulation.md",
+    "concepts"
+  ]
+}
