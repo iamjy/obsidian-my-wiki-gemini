@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9c1a52e09bef06e1",
+        "id": "1585a65f31938940",
         "type": "tabs",
         "children": [
           {
-            "id": "90aad33a2a76885e",
+            "id": "b2fad410ea468d70",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,13 +157,23 @@
               "icon": "lucide-list",
               "title": "개요"
             }
+          },
+          {
+            "id": "ee9ce7509c4c30e6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -173,41 +183,47 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "90aad33a2a76885e",
+  "active": "b2fad410ea468d70",
   "lastOpenFiles": [
-    "references",
-    "raw/피지컬 AI의 성패 가른 핵심, ‘시뮬레이션과 온디바이스’.md",
-    "raw/취준생 임베디드 프로젝트 개발 과정 - 브링업이란.md",
-    "raw/질의응답 챗봇을 넘어, KPI를 움직이는 의사결정 AI Agent.md",
-    "raw/연재기획-피지컬 AI와 센서② - 환경 인식·엣지 센서가 지능을 결정.md",
-    "raw/연재기획-피지컬 AI와 센서① - 센서, 지능과 제어·안전을 연결하는 출발점.md",
-    "raw/연재기획 - 피지컬 AI, 산업의 미래를 다시 그리다③, 피지컬 AI 감각 기관 ‘센서’ 피지컬 AI 경쟁력 좌우.md",
-    "raw/연재기획 - 피지컬 AI, 산업의 미래를 다시 그리다①, ‘피지컬 AI 성공’ 인간과 지능형 기계의 상호작용 설계에 달렸다.md",
-    "raw/SDV 테크 리포트 -  SW 업데이트 전쟁터가 된 도로... ‘24시간 멈추지 않는 검증 파이프라인’이 승패 가른다.md",
-    "raw/Comprehensive Explanation MIPI is not difficult! Newbies learn the MIPI standard from scratch ~ Basics Part 1 What is D-PHY ~ - Semiconductor Business.md",
-    "raw",
-    "projects",
-    "logs/log.md",
-    "logs",
-    "llm-wiki.md",
-    "ingests/2026-05-10-physical-ai-sensor-start.md",
-    "ingests/2026-05-10-physical-ai-sensor-edge.md",
-    "ingests/2026-05-10-ai-agent-kpi-decision.md",
-    "ingests/2026-05-09-sdv-verification-hils.md",
-    "ingests/2026-05-09-physical-ai-simulation-on-device.md",
-    "ingests/2026-05-09-physical-ai-sensor-importance.md",
-    "ingests/2026-05-09-physical-ai-future-interaction.md",
-    "ingests/2026-05-09-mipi-d-phy-basics.md",
-    "ingests/2026-05-09-llm-wiki-core-idea.md",
-    "ingests/2026-05-09-embedded-bring-up.md",
-    "ingests",
     "index.md",
+    "wiki/concepts/op-tee.md",
+    "wiki/concepts/trustzone.md",
+    "wiki/concepts/tee.md",
+    "wiki/ingests/2026-05-22-op-tee-basics.md",
+    "raw/OP-TEE.md",
+    "wiki/concepts/platform.md",
+    "wiki/ingests/2026-05-21-what-is-platform.md",
+    "raw/개발자의 삶 - 플랫폼이란.md",
     "GEMINI.md",
-    "concepts/world-foundation-model.md",
-    "concepts/simulation.md",
-    "concepts"
+    "wiki/index.md",
+    "update_links.py",
+    "wiki/ingests/2026-05-21-embedded-platform-cpu.md",
+    "wiki/ingests/2026-05-14-mobilint-edge-ai-inference.md",
+    "wiki/ingests/2026-05-14-infineon-risc-v-sdv-shift-left.md",
+    "wiki/ingests/2026-05-11-adi-a2b-2-0-sdv-audio.md",
+    "wiki/ingests/2026-05-10-physical-ai-sensor-start.md",
+    "wiki/ingests/2026-05-10-physical-ai-sensor-edge.md",
+    "wiki/ingests/2026-05-10-ai-agent-kpi-decision.md",
+    "wiki/ingests/2026-05-09-sdv-verification-hils.md",
+    "wiki/ingests/2026-05-09-physical-ai-simulation-on-device.md",
+    "wiki/ingests/2026-05-09-physical-ai-sensor-importance.md",
+    "wiki/ingests/2026-05-09-physical-ai-future-interaction.md",
+    "wiki/ingests/2026-05-09-mipi-d-phy-basics.md",
+    "wiki/ingests/2026-05-09-llm-wiki-core-idea.md",
+    "wiki/ingests/2026-05-09-embedded-bring-up.md",
+    "wiki/concepts/world-foundation-model.md",
+    "wiki/references",
+    "wiki/projects",
+    "wiki/logs",
+    "wiki/ingests",
+    "wiki/concepts",
+    "wiki",
+    "references",
+    "raw",
+    "projects"
   ]
 }

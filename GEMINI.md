@@ -6,11 +6,11 @@ This document defines the structure and operational rules for this Obsidian-base
 This is a "Second Brain" vault following the **LLM Wiki** pattern. Unlike traditional RAG, this system builds a persistent, compounding synthesis of knowledge in the form of interlinked Markdown files.
 
 ## Note Types & Routing
-- **concept**: Core ideas, entities, or synthesized topics. → `concepts/`
-- **ingest**: Processed summaries and takeaways from external sources. → `ingests/`
-- **log**: Chronological record of vault activities. → `logs/`
-- **reference**: Bibliographic data or raw source metadata. → `references/`
-- **project**: Active goals or specific implementation tasks. → `projects/`
+- **concept**: Core ideas, entities, or synthesized topics. → `wiki/concepts/`
+- **ingest**: Processed summaries and takeaways from external sources. → `wiki/ingests/`
+- **log**: Chronological record of vault activities. → `wiki/logs/`
+- **reference**: Bibliographic data or raw source metadata. → `wiki/references/`
+- **project**: Active goals or specific implementation tasks. → `wiki/projects/`
 
 ## Frontmatter Schema
 All notes must include the following YAML frontmatter:
@@ -34,14 +34,14 @@ related: ["[[link1]]", "[[link2]]"]
 - **Source Material**: Sources are treated as immutable. The wiki is a persistent synthesis.
 
 ## Operations
-- **Ingest**: Process a new source into a note in `ingests/`, update `index.md`, and link to related concepts.
+- **Ingest**: Process a new source into a note in `wiki/ingests/`, update `wiki/index.md`, and link to related concepts.
 - **Query**: Synthesize answers from existing wiki pages and file them back as new notes if valuable.
 - **Lint**: Periodically check for contradictions and orphan pages.
 
 ## Key Files
 - `GEMINI.md`: This schema definition.
-- `index.md`: Content-oriented catalog of all notes.
-- `logs/log.md`: Chronological activity log.
+- `wiki/index.md`: Content-oriented catalog of all notes.
+- `wiki/logs/log.md`: Chronological activity log.
 - `llm-wiki.md`: The original design document.
 
 ## Usage
