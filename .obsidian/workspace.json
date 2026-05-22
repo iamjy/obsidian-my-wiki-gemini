@@ -11,10 +11,14 @@
             "id": "b2fad410ea468d70",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "wiki/index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "index"
             }
           }
         ]
@@ -187,9 +191,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2fad410ea468d70",
+  "active": "60290f814491dea7",
   "lastOpenFiles": [
-    "index.md",
+    "GEMINI.md",
+    "wiki/index.md",
     "wiki/concepts/op-tee.md",
     "wiki/concepts/trustzone.md",
     "wiki/concepts/tee.md",
@@ -198,7 +203,6 @@
     "wiki/concepts/platform.md",
     "wiki/ingests/2026-05-21-what-is-platform.md",
     "raw/개발자의 삶 - 플랫폼이란.md",
-    "GEMINI.md",
     "wiki/index.md",
     "update_links.py",
     "wiki/ingests/2026-05-21-embedded-platform-cpu.md",
